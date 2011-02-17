@@ -1,2 +1,7 @@
-{ "name": "Git Fundamentals", "sections": [ {"section":"one"}, {"section":"two"} ]}
+{ "name": "Git Fundamentals", "sections": [ 
+  {"section":"one"},
+  {"section":"two"},
+  {"section":"three"},
+  {"section":"four"} ]
+}
 

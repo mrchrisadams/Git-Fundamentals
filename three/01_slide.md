@@ -2,7 +2,9 @@
 
 ## A history of commits
 
-![history-of-commits](history-of-commits)
+!SLIDE center
+
+![history-of-commits](history-of-commits.png)
 
 !SLIDE center
 
@@ -11,7 +13,7 @@
 
 !SLIDE center
 
-### Simple branch example
+### Two branches, to merge together.
 
 ![diverged-branches](diverged-branches.png)
 
@@ -21,8 +23,13 @@
 
 !SLIDE code
 
-# git merge BRANCH_I_WANT_TO_MERGE_IN
+## git merge BRANCH_I_WANT_TO_MERGE_IN
 
 !SLIDE code
 
-# git merge another-new-idea
+## git merge another-new-idea
+
+!SLIDE Merged branches center
+
+![merged-branch]( merged-branch.png )
+

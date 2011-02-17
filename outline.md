@@ -43,12 +43,24 @@ git init
 
 !SLIDE
 
-So long as you have the .git file, you can always regenerate a snapshot
-of a project's from any point previously.
+So long as you have the `.git` file, you can always regenerate a snapshot
+of any previous point on a project.
 
 !SLIDE command
 
 git clone . ~/Backups/git-brown-bag.git
+
+!SLIDE incremental
+
+git clone ~/Backups/git-brown-bag.git brown-bag-talk
+git clone git@code.headshift.com:drupal-project.git php-spagetti-code
+git clone https://github.com/londonhackspace/Doorbot.git doorbot
+git clone git://github.com/jquery/jquery-mobile.git jq-mobile
+
+!SLIDE
+
+Committing
+
 
 
 

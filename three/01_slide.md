@@ -9,4 +9,8 @@
 ### Any commit can link back to another parent commit.
 ### You can have multiple paths of of commits (branches)
 
+!SLIDE center
+
+### Simple branch example
+
 

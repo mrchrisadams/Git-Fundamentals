@@ -86,10 +86,11 @@
 
 ![objects-overlayed](objects-overlayed.png)
 
-Each commit describes the whole project tree.
-The contents of each file is verified by hash at each step.
-Every file of every version up to now is already on your computer,
-inside .git
+!SLIDE 
+
+## Each commit contains the whole project tree.
+## The contents of each file is verified with hashes.
+## Every file of every version of your project up to now is already on your computer, inside `.git`
 
 !SLIDE center
 

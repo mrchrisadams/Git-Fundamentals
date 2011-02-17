@@ -78,11 +78,11 @@
 
 ![objects-finder](objects-finder.png)
 
-!SLIDE  center transition=slide
+!SLIDE  center 
 
 ![objects-example](objects-example.png)
 
-!SLIDE  center transition=slide
+!SLIDE  center 
 
 ![objects-overlayed](objects-overlayed.png)
 
@@ -91,14 +91,16 @@ The contents of each file is verified by hash at each step.
 Every file of every version up to now is already on your computer,
 inside .git
 
-!SLIDE
+!SLIDE center
 
-A second look at the commit.
+## A second look at the commit.
 
-![commit](commit.png)
+![object-commit](object-commit.png)
 
-!SLIDE
+!SLIDE center
 
-Hashes instead of numbers, allow for easier branching.
+# Hashes let Git link any commit to any other commit, to create a history of changes.
+
+
 
 

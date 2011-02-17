@@ -13,4 +13,6 @@
 
 ### Simple branch example
 
+!SLIDE center 
 
+### Merging in another branch 

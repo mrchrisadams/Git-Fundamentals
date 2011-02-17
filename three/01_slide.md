@@ -13,6 +13,16 @@
 
 ### Simple branch example
 
+![diverged-branches](diverged-branches.png)
+
 !SLIDE center 
 
 ### Merging in another branch 
+
+!SLIDE code
+
+# git merge BRANCH_I_WANT_TO_MERGE_IN
+
+!SLIDE code
+
+# git merge another-new-idea

@@ -1,7 +1,7 @@
 { "name": "Git Fundamentals", "sections": [ 
-  {"section":"one"},
-  {"section":"two"},
-  {"section":"three"},
-  {"section":"four"} ]
+  {"section":"01"},
+  {"section":"02"},
+  {"section":"03"},
+  {"section":"04"} ]
 }
 

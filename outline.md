@@ -18,6 +18,9 @@ Explaining what's happening along the way.
 
 Git is distributed, fast, built on surprisingly simple fundamentals.
 
+### Understanding it's internals
+
+http://book.git-scm.com/1_the_git_object_model.html
 
 
 
